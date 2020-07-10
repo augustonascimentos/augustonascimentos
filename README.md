@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**augustonascimentos/augustonascimentos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥 I’m currently working at [Zoop](https://zoop.com.br) collaborating with many Backend micro services using:
 
-Here are some ideas to get you started:
+- Python
+- NodeJS
+- AWS DynamoDB
+- AWS Lambda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤓 I'm very interested in:
+
+- Cloud Computing 
+- Programming languages
+- Test Driven Development(TDD)
+- API REST
+- HTTP Basic authentication/authorization
+
+### 🧐 I'm currently learning about:
+
+- Asynchronous with Python
+- Asynchronous with NodeJS
+
+### 📫 How to reach me:
+
+You can find more informations about my skills in my LinkedIn profile:
+
+https://www.linkedin.com/in/augustonascimentos/
+
+Feel free to contact me there, I love to meet new people. ❤️
