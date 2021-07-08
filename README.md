@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🖥 I’m currently working at [Zoop](https://zoop.com.br) collaborating with many Backend micro services using:
+### 🖥 I’m currently working at [QGX](https://qgx.digital/) collaborating with many Backend micro services using:
 
 - Python
 - NodeJS
