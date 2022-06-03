@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-### 🖥 I’m currently working at [QGX](https://qgx.digital/) collaborating with many Backend micro services using:
+### 🖥 I’m currently working at [Dock](https://dock.tech/en/) collaborating with many Backend micro services using:
 
+- Golang
 - Python
 - NodeJS
-- AWS DynamoDB
-- AWS Lambda
+- AWS Services
+- Kubernetes
 
 ### 🤓 I'm very interested in:
 
@@ -17,8 +18,8 @@
 
 ### 🧐 I'm currently learning about:
 
-- Asynchronous with Python
-- Asynchronous with NodeJS
+- K8s
+- Agile methods
 
 ### 📫 How to reach me:
 
