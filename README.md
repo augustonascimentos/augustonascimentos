@@ -6,7 +6,7 @@
 
 
 ## 📫 Contact me:
-
+<a href=”https://www.linkedin.com/in/augustonascimentos/"><img align=”left” src=”https://raw.githubusercontent.com/augustonascimentos/augustonascimentos/master/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 https://www.linkedin.com/in/augustonascimentos/
