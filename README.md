@@ -1,15 +1,51 @@
-## Hi there, I'm Augusto 👋
+<h1 align="left">Hi there! 👋</h1>
 
-- 🖥 I’m currently working at [Dock](https://dock.tech/en/). 
-- 🌱 I’m currently learning Golang.
-- 🥅 2022 Goals: Learn more about Golang and Kubernetes! 
+###
 
+<p align="left">My name is <strong>Augusto Nascimento</strong> and I'm a <strong>Backend developer</strong>, from <strong>Rio de Janeiro, Brazil</strong>
+<img src="https://github.com/yammadev/flag-icons/blob/master/png/BR@2x.png" height="15" width="20" alt="brazil flag"/>.</p>
 
-## 📫 Contact me:
-<a href=”https://www.linkedin.com/in/augustonascimentos/"><img align=”left” src=”https://github.com/augustonascimentos/augustonascimentos/blob/5d08548ba7753b65ecb6b91afa23cb2e537ea34d/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+###
 
+<h2 align="left">About me</h2>
 
-https://www.linkedin.com/in/augustonascimentos/
+###
 
-Feel free to contact me there, I love to meet new people. ❤️
+<p align="left">🖥 I’m currently working at <a href="https://dock.tech/en/">Dock</a>.<br> 🌱 I'm currently learning <strong>Golang</strong><br> 🎯 Goals: Learn more about Golang and Kubernetes! <br> 🎲 Fun fact: I love meeting new new people and drink beer.</p>
+
+###
+
+<h2 align="left">Languages and Tools:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+</div>
+
+###
+
+<h2 align="left">📫 Feel free to contact me: </h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/augustonascimentos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="augustonascimentos@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/augustonascimentos2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
