@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🖥 I’m currently working at <a href="https://dock.tech/en/">Dock</a>.<br> 🌱 I'm currently learning <strong>Golang</strong><br> 🎯 Goals: Learn more about Golang and Kubernetes! <br> 🎲 Fun fact: I love meeting new people and drinking beer.</p>
+<p align="left">🖥 I’m currently working at <a href="https://dock.tech/en/">Dock</a>.<br> 🎯 Goals: Learn more about Golang and Kubernetes! <br> 🎲 Fun fact: I love meeting new people and drinking beer.</p>
 
 ###
 
